@@ -1,2 +1,2 @@
 # Button
-This is an example of implementation of the Button and how an operationa can be added after clicking it.
+This is an example for the implementation of Button and how an operation can be added after clicking it.
